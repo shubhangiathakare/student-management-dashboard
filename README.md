@@ -49,3 +49,5 @@ Add screenshots in a `screenshots/` folder and reference them here:
 npm run build
 npm run preview
 ```
+✅ Production URL:
+👉 https://student-management-dashboard-43ea6qzp5.vercel.app
